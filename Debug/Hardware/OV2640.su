@@ -1,0 +1,11 @@
+OV2640.c:27:9:OV2640_Init	24	static
+OV2640.c:37:9:OV2640_ReadID	16	static
+OV2640.c:56:6:i2c_sent	32	static
+OV2640.c:64:9:i2c_receive	40	static
+OV2640.c:71:6:ov2640_config	8	static
+OV2640.c:79:6:OV2640_JPEGConfig	24	static
+OV2640.c:168:6:OV2640_BrightnessConfig	16	static
+OV2640.c:178:6:OV2640_AutoExposure	16	static
+OV2640.c:204:6:SCCB_WriteRegs	16	static
+OV2640.c:238:6:StartOV2640	8	static
+OV2640.c:247:6:HAL_DCMI_FrameEventCallback	24	static

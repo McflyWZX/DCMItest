@@ -1,0 +1,3 @@
+dcmi.c:31:6:MX_DCMI_Init	8	static
+dcmi.c:53:6:HAL_DCMI_MspInit	64	static
+dcmi.c:149:6:HAL_DCMI_MspDeInit	16	static
